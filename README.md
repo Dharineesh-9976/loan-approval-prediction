@@ -23,7 +23,7 @@ The project report is provided as an HTML file.
 
 📄 **Final Report (HTML):**
 
-- `loan_approval_pipeline_last_updated (2)(1).html` — Interactive project report.
+-  `loan_approval_pipeline_last_updated (2).html` — Interactive project report.
 
 📊 **Dataset:**
 
@@ -129,7 +129,7 @@ The final model performance should be reported using the actual evaluation resul
 loan-approval-prediction-ml/
 │
 ├── loan_data.csv
-├── loan_approval_pipeline_last_updated (2)(1).html
+├── loan_approval_pipeline_last_updated (2).html
 ├── README.md
 └── .gitignore
 ```
